@@ -1,0 +1,35 @@
+{
+  "car_one_name": [
+    {
+      "name": "Car Name",
+      "id": 1
+    }
+  ],
+  "car_one_vehicle_tax": [],
+  "car_one_toll_tax": [],
+  "car_one_insurance": [],
+  "car_one_technical_review": [],
+  "car_one_service_book": [],
+  "car_two_name": [
+    {
+      "name": "Car Name",
+      "id": 1
+    }
+  ],
+  "car_two_vehicle_tax": [],
+  "car_two_toll_tax": [],
+  "car_two_insurance": [],
+  "car_two_technical_review": [],
+  "car_two_service_book": [],
+  "car_three_name": [
+    {
+      "name": "Car Name",
+      "id": 1
+    }
+  ],
+  "car_three_vehicle_tax": [],
+  "car_three_toll_tax": [],
+  "car_three_insurance": [],
+  "car_three_technical_review": [],
+  "car_three_service_book": []
+}
