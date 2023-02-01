@@ -3,7 +3,7 @@ import React from 'react';
 const Heading = () => {
     return (
         <div className='heading'>
-            <h1>My Car's Docs</h1>
+            <h1>Car Diary</h1>
         </div>
     )
 };
